@@ -1,7 +1,2 @@
 https://medium.com/tech-iiitg/how-to-make-a-make-a-google-chrome-extension-4867d3bffec
-https://airflow.apache.org/docs/apache-airflow/1.10.10/concepts.html#dags
-https://archive.ics.uci.edu/dataset/187/url+reputation
-https://www.interviewbit.com/practice/
 https://www.scaler.com/topics/courses/?utm_source=ib
-https://www.kaggle.com/search
-https://colab.research.google.com/drive/1D4B57qwM1AFG51L87VmAsrX4fIj-CxFb#scrollTo=XSKRg4Huvf5-
